@@ -1,0 +1,4 @@
+Smith 12000
+Kowalsky 21000
+Baiden 14000
+Johnstone 29000
